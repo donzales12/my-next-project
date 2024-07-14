@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-win32-x64-msvc": "^14.2.5",
+    
     "classnames": "^2.5.1",
     "dayjs": "^1.11.11",
     "microcms-js-sdk": "^3.1.0",
